@@ -14,11 +14,59 @@ To help facilitate better conversations, handle tough situations, and drive acti
 
 ##Structure
 
-- retros/ → Retrospective facilitation prompts
-- daily-scrum/ → Standup facilitation & unblocking
-- sprint-planning/ → Planning & scope control
-- stakeholder-management/ → Handling pressure & priorities
-- team-dynamics/ → Conflict & engagement
+scrum-master-prompts/
+│
+├── README.md
+├── CONTRIBUTING.md
+├── TAGS.md
+│
+├── retros/
+│   ├── driving_focus.md
+│   ├── handling_pushback.md
+│   ├── silent_team.md
+│   ├── conflict_in_retro.md
+│   ├── closing_retro.md
+│   └── selecting_action_items.md
+│
+├── daily-scrum/
+│   ├── unblocking_questions.md
+│   ├── stopping_status_updates.md
+│   ├── encouraging_collaboration.md
+│   └── handling_long_discussions.md
+│
+├── sprint-planning/
+│   ├── scope_control.md
+│   ├── realistic_commitment.md
+│   ├── capacity_alignment.md
+│   └── handling_unclear_stories.md
+│
+├── backlog-refinement/
+│   ├── improving_story_clarity.md
+│   ├── splitting_stories.md
+│   └── prioritization_discussion.md
+│
+├── stakeholder-management/
+│   ├── handling_urgent_requests.md
+│   ├── pushing_back_on_scope.md
+│   ├── aligning_with_po.md
+│   └── expectation_management.md
+│
+├── team-dynamics/
+│   ├── low_participation.md
+│   ├── conflict_resolution.md
+│   ├── ownership_issues.md
+│   └── blame_to_accountability.md
+│
+├── flow-and-delivery/
+│   ├── too_much_wip.md
+│   ├── testing_bottleneck.md
+│   ├── carryover_work.md
+│   └── mid_sprint_changes.md
+│
+└── playbooks/
+    ├── messy_sprint_retro.md
+    ├── high_pressure_sprint.md
+    └── stakeholder_escalation.md
 
 ---
 
